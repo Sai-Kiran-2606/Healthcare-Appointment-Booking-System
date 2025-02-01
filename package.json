@@ -1,0 +1,36 @@
+{
+  "name": "healthcare",
+  "version": "1.0.0",
+  "description": "Healthcare Appointment Booking System",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sai-Kiran-2606/Healthcare-Appointment-Booking-System.git"
+  },
+  "keywords": [
+    "Java",
+    "React",
+    "Spring"
+  ],
+  "author": "SaiKiran Reddy Kotha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sai-Kiran-2606/Healthcare-Appointment-Booking-System/issues"
+  },
+  "homepage": "https://github.com/Sai-Kiran-2606/Healthcare-Appointment-Booking-System#readme",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.3",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10",
+    "tailwindcss": "^4.0.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5"
+  }
+}
